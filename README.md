@@ -1,2 +1,2 @@
 # Growagarden
-script
+script doesnt work on some executers
